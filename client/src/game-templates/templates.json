@@ -1,0 +1,14 @@
+{
+  "rpg": {
+    "description": "Создайте фэнтези RPG с квестами, инвентарем и боями.",
+    "features": ["quests", "inventory", "combat", "dialogue"]
+  },
+  "fps": {
+    "description": "Создайте шутер от первого лица с оружием и ботами.",
+    "features": ["weapon", "ai", "multiplayer", "hud"]
+  },
+  "third_person": {
+    "description": "Приключенческая игра от третьего лица.",
+    "features": ["camera_third_person", "platforming", "collection"]
+  }
+}

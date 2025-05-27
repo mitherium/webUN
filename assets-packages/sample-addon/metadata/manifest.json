@@ -1,0 +1,8 @@
+{
+  "name": "Sample Addon",
+  "version": "1.0.0",
+  "description": "Пример дополнения с объектами, скриптами и моделями.",
+  "author": "OpenDev Studio",
+  "entryScript": "scripts/init.js",
+  "tags": ["utility", "demo"]
+}
